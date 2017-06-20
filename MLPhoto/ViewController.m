@@ -7,7 +7,6 @@
 //
 
 #import "ViewController.h"
-#import "MLCameraViewController.h"
 #import <CoreML/CoreML.h>
 #import "Resnet50.h"
 @import CoreVideo;
